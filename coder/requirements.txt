@@ -1,0 +1,4 @@
+chroma-hnswlib==v0.7.6
+crewai==v0.165.1
+chromadb==0.5.23
+chroma-hnswlib
